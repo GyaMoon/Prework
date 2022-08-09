@@ -6,3 +6,5 @@ Yo eh decidido usar una de las distribuciones principales para continuar con mi 
 2. Make a tweet about npm, explain what it is and what it is for?
 3. Make a tweet about node js, explain what it is and what it is for?
 4. Make a post teaching how to commit and its status
+
+Pull y actualiza tu repositorio local.
